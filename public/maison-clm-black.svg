@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="88" viewBox="0 0 360 88" fill="none">
+  <rect width="360" height="88" fill="none"/>
+  <path d="M30 56V34L44 22L58 34V56" stroke="#111111" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M24 36L44 18L64 36" stroke="#111111" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M37 56V43H51V56" stroke="#111111" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="84" y="38" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111111">Maison CLM</text>
+  <text x="84" y="62" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" letter-spacing="2.2" fill="#111111">CRÉATION DE SITES WEB</text>
+</svg>

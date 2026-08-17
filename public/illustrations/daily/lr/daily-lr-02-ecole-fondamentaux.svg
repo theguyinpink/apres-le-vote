@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Discipline et fondamentaux</title>
+  <desc id="desc">Une classe structurée autour des savoirs fondamentaux et d’un cadre national</desc>
+  <rect width="640" height="400" fill="#D7E4F3"/>
+  <g fill="none" stroke="#0D2642" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    
+      <rect x="45" y="48" width="383" height="193" rx="6" fill="#fff" opacity=".36"/>
+      <path d="M89 96h75M89 126h75M223 89v61M202 120h42M282 92l42 42M324 92l-42 42M352 90h38M352 119h38M65 241h344"/>
+      <circle cx="484" cy="102" r="30"/><path d="M442 231q7-92 42-92t42 92M457 173l-68 22"/>
+      <path d="M46 325h548M76 325v-58h121v58M237 325v-58h121v58M398 325v-58h121v58"/>
+      <circle cx="136" cy="249" r="19"/><circle cx="297" cy="249" r="19"/><circle cx="458" cy="249" r="19"/>
+      <rect x="529" y="65" width="69" height="116" rx="4"/><path d="M546 94h35M546 118h35M546 142h25"/>
+      <path d="M45 48h383v24H45Z" fill="#175CA8" stroke="none" opacity=".55"/>
+      <path d="m548 160 12 12 25-30" stroke="#175CA8" stroke-width="9"/>
+    
+  </g>
+</svg>

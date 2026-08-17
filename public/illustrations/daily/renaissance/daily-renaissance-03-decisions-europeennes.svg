@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Plus de décisions partagées</title>
+  <desc id="desc">Plusieurs pays réunis autour d’une table de décision européenne</desc>
+  <rect width="640" height="400" fill="#E2DDF8"/>
+  <g fill="none" stroke="#1D1741" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    
+      <ellipse cx="320" cy="277" rx="244" ry="78" fill="#fff" opacity=".34"/>
+      <circle cx="320" cy="108" r="76"/>
+      <circle cx="320" cy="52" r="6" fill="#5C43CF" stroke="none"/><circle cx="360" cy="68" r="6" fill="#5C43CF" stroke="none"/><circle cx="376" cy="108" r="6" fill="#5C43CF" stroke="none"/><circle cx="360" cy="148" r="6" fill="#5C43CF" stroke="none"/><circle cx="320" cy="164" r="6" fill="#5C43CF" stroke="none"/><circle cx="280" cy="148" r="6" fill="#5C43CF" stroke="none"/><circle cx="264" cy="108" r="6" fill="#5C43CF" stroke="none"/><circle cx="280" cy="68" r="6" fill="#5C43CF" stroke="none"/>
+      <path d="M287 118h66V94h-66ZM298 94V79h44v15"/>
+      <circle cx="116" cy="216" r="30"/><path d="M75 316q6-72 41-72t41 72"/>
+      <circle cx="524" cy="216" r="30"/><path d="M483 316q6-72 41-72t41 72"/>
+      <circle cx="221" cy="194" r="27"/><path d="M183 283q6-63 38-63t38 63"/>
+      <circle cx="419" cy="194" r="27"/><path d="M381 283q6-63 38-63t38 63"/>
+      <path d="M276 238h88v73h-88ZM292 260h56M292 282h39"/>
+      <circle cx="320" cy="248" r="17" fill="#5C43CF" opacity=".6"/>
+    
+  </g>
+</svg>

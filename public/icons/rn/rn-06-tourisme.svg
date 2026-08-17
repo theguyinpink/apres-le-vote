@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Tourisme</title>
+  <desc id="desc">Illustration éditoriale du chapitre Tourisme</desc>
+  <rect width="160" height="160" fill="#d9deea"/>
+  <g fill="none" stroke="#08152e" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 118h112M31 99l27-35 18 23 16-20 34 51M44 118V91h37v27"/><rect x="91" y="92" width="29" height="24" rx="3"/><path d="M99 92v-7h13v7M105 97v14"/><circle cx="128" cy="44" r="10" fill="#172e62" stroke="none"/>
+  </g>
+</svg>

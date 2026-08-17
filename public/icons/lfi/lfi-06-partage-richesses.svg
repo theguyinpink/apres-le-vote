@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Partage des richesses</title>
+  <desc id="desc">Une pièce partagée entre deux mains</desc>
+  <rect width="160" height="160" fill="#F5D7DF"/>
+  <g fill="none" stroke="#32101B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="80" cy="67" r="24"/>
+    <path d="M92 54q-5-6-12-6-13 0-16 19t16 19q7 0 12-6M59 63h28M59 71h28M40 116h27q11 0 16-9l4-7q3-6-2-9-5-2-9 4l-5 7H58M120 116H93q-11 0-16-9M36 104l14-6 9 24-14 5ZM124 104l-14-6-9 24 14 5Z"/>
+  </g>
+  <path d="M59 67h28" stroke="#D51A4B" stroke-width="2.8"/>
+</svg>

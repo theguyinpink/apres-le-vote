@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Patrimoine</title>
+  <desc id="desc">Illustration éditoriale du chapitre Patrimoine</desc>
+  <rect width="160" height="160" fill="#d9deea"/>
+  <g fill="none" stroke="#08152e" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M25 122h110M32 122V68h96v54M32 68l48-29 48 29M49 84v23M70 84v23M91 84v23M112 84v23"/><path d="M105 39v24"/><path d="M106 40V27l18 7-18 7Z" fill="#172e62" stroke="none"/>
+  </g>
+</svg>

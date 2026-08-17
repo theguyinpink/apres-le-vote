@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">La force de l’entraide</title>
+  <desc id="desc">Deux mains solidaires et un cœur</desc>
+  <rect width="160" height="160" fill="#F5D7DF"/>
+  <g fill="none" stroke="#32101B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m24 88 22-20 19 7 13 13q4 4 0 8t-8 0L59 86M136 88l-22-20-19 7-13 13M40 104l16 14q5 4 9-1M55 115l8 7q5 4 9-1M66 117l5 4q5 4 9-1l3-4M120 104l-17 14q-5 4-9-1l-16-15M20 81l14-13 13 39-14 8ZM140 81l-14-13-13 39 14 8Z"/>
+  </g>
+  <path d="M80 54c-10-12-25 3 0 20 25-17 10-32 0-20Z" fill="#D51A4B"/>
+</svg>

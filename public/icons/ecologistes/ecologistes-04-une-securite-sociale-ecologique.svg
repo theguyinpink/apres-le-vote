@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Une sécurité sociale écologique</title>
+  <desc id="desc">Illustration éditoriale du chapitre Une sécurité sociale écologique</desc>
+  <rect width="160" height="160" fill="#d8eadc"/>
+  <g fill="none" stroke="#0e2b1a" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="80" cy="80" r="50"/><path d="M80 116C38 90 49 55 67 59q8 2 13 11 5-9 13-11c18-4 29 31-13 57Z"/><path d="M56 84h15l5-13 9 24 6-11h14"/><path d="M108 109q2-19 20-21-2 19-20 21Zm2-2 14-14" stroke="#2b7a4b" stroke-width="2.8"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Planification écologique</title>
+  <desc id="desc">Calendrier de planification traversé par une feuille</desc>
+  <rect width="160" height="160" fill="#F5D7DF"/>
+  <g fill="none" stroke="#32101B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="28" y="43" width="104" height="87" rx="3"/><path d="M28 67h104M50 35v16M110 35v16M45 84h14M73 84h14M101 84h14M45 101h14M73 101h14"/>
+    <path d="M79 122q11-29 40-35-1 30-27 36-8 2-13-1Z"/>
+    <path d="M82 120q15-14 32-26"/>
+  </g>
+  <path d="M114 94q-8 13-24 22" fill="none" stroke="#D51A4B" stroke-width="2.8" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Étendre le domaine de la liberté</title>
+  <desc id="desc">Une porte ouverte laisse s’envoler un oiseau</desc>
+  <rect width="160" height="160" fill="#F5D7DF"/>
+  <g fill="none" stroke="#32101B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M42 124V46h53v78M42 46l45 9v69M87 55l20-10v69l-20 10M76 88h1"/>
+    <path d="M101 42q12-13 23-2 8-8 15-1-15 1-22 10"/>
+  </g>
+  <path d="M107 114V45l-20 10v69Z" fill="#D51A4B" opacity=".18"/>
+  <path d="M124 40q8-8 15-1" fill="none" stroke="#D51A4B" stroke-width="2.6" stroke-linecap="round"/>
+</svg>

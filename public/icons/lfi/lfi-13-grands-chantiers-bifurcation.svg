@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Les grands chantiers de la bifurcation</title>
+  <desc id="desc">Grue de chantier au-dessus d’une voie qui bifurque</desc>
+  <rect width="160" height="160" fill="#F5D7DF"/>
+  <g fill="none" stroke="#32101B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M31 116h71M42 116V39M33 39h76M42 39l38 21M109 39v36M103 75h12v13h-12ZM31 116l11-19 11 19M31 97h22"/>
+    <path d="M71 129q4-31 21-48M93 129q3-25 25-41M71 129h22"/>
+    <path d="M83 96q10-2 19-10"/>
+  </g>
+  <path d="M92 129q3-25 26-41" fill="none" stroke="#D51A4B" stroke-width="3" stroke-linecap="round"/>
+  <path d="m112 87 8-1-2 8" fill="#D51A4B"/>
+</svg>

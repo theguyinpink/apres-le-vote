@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">La France entreprend</title>
+  <desc id="desc">Illustration éditoriale du chapitre La France entreprend</desc>
+  <rect width="160" height="160" fill="#d9deea"/>
+  <g fill="none" stroke="#08152e" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22 128V69l31 17V69l31 17V57l29 15v56ZM101 57V34h15v39M22 128h116M37 103h12M59 103h12M87 103h12"/><path d="M116 40q12-9 20 0" stroke="#172e62" stroke-width="3"/>
+  </g>
+</svg>

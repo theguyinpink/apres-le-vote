@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Coût de la vie : reprendre le contrôle</title>
+  <desc id="desc">Illustration éditoriale du chapitre Coût de la vie : reprendre le contrôle</desc>
+  <rect width="160" height="160" fill="#f9dbea"/>
+  <g fill="none" stroke="#37101f" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 126h112M34 126V69l42-32 42 32v57M52 126V83h48v43M118 83l15-12v55"/><path d="M109 62q-6-17 10-27 11 18-10 27Zm2-2 8-19" stroke="#e62973" stroke-width="2.8"/>
+  </g>
+</svg>

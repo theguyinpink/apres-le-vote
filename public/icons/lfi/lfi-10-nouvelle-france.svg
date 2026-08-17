@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Faire place à la nouvelle France</title>
+  <desc id="desc">Une communauté diverse devant un soleil levant</desc>
+  <rect width="160" height="160" fill="#F5D7DF"/>
+  <g fill="none" stroke="#32101B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M28 87a52 52 0 0 1 104 0M21 87h118M80 24v12M45 34l7 10M115 34l-7 10M24 58l12 5M136 58l-12 5"/>
+    <circle cx="46" cy="91" r="9"/><circle cx="80" cy="82" r="9"/><circle cx="114" cy="91" r="9"/>
+    <path d="M27 126q3-24 19-24t19 24M59 126q4-32 21-32t21 32M95 126q3-24 19-24t19 24M20 126h120"/>
+  </g>
+  <path d="M66 87a14 14 0 0 1 28 0" fill="#D51A4B" opacity=".35"/>
+  <path d="M66 87a14 14 0 0 1 28 0" fill="none" stroke="#D51A4B" stroke-width="2.6"/>
+</svg>

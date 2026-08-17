@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Davantage de chantiers publics</title>
+  <desc id="desc">Rénovation d’un bâtiment public et modernisation d’un transport collectif</desc>
+  <rect width="640" height="400" fill="#F5D7DF"/>
+  <g fill="none" stroke="#32101B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    
+      <path d="M24 337h592M46 337V129h219v208M46 129l109-65 110 65M87 175h38v49H87Zm98 0h38v49h-38ZM87 257h38v80M185 257h38v80"/>
+      <path d="M55 105h211M69 112v225M247 112v225M46 239h219"/>
+      <path d="M301 337V61M287 61h176M309 61l114 70M454 61v88M439 149h31v28h-31Z"/>
+      <rect x="360" y="217" width="229" height="104" rx="18" fill="#fff" opacity=".38"/>
+      <path d="M382 252h183M411 217v104M532 217v104M387 286h173M399 321v16M550 321v16"/>
+      <circle cx="413" cy="338" r="17"/><circle cx="541" cy="338" r="17"/>
+      <path d="M46 129h219v22H46Z" fill="#D31D50" stroke="none" opacity=".62"/>
+      <path d="M360 217h229v25H360Z" fill="#D31D50" stroke="none" opacity=".45"/>
+    
+  </g>
+</svg>

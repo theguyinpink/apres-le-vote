@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Des aides davantage conditionnées</title>
+  <desc id="desc">Une balance entre revenu du travail et prestation soumise à davantage de critères</desc>
+  <rect width="640" height="400" fill="#D7E4F3"/>
+  <g fill="none" stroke="#0D2642" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    
+      <path d="M320 67v249M198 103h244M235 103l-74 138h148l-74-138ZM405 103l-74 138h148l-74-138ZM242 316h156"/>
+      <rect x="104" y="173" width="114" height="69" rx="7" fill="#fff" opacity=".48"/><path d="M132 173v-21h58v21M129 207h64"/>
+      <rect x="351" y="153" width="108" height="133" rx="8" fill="#fff" opacity=".48"/><path d="M375 184h59M375 214h42M375 244h59"/>
+      <path d="m421 208 13 13 25-31" stroke="#175CA8" stroke-width="10"/>
+      <circle cx="320" cy="67" r="14" fill="#175CA8" stroke="none"/>
+      <path d="M78 334h484"/>
+    
+  </g>
+</svg>

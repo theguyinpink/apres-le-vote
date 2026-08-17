@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Des aides avant les interdictions</title>
+  <desc id="desc">Soutien financier à la rénovation et aux mobilités propres avant les restrictions</desc>
+  <rect width="640" height="400" fill="#F9DBEA"/>
+  <g fill="none" stroke="#37101F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    
+      <path d="M38 330h564M62 330V181l109-82 109 82v149M105 330V223h132v107"/>
+      <path d="M222 139q8-53 61-60-7 54-61 60Zm4-4 47-45"/>
+      <path d="M337 293h160l-23-74H371l-34 74ZM359 293v37M473 293v37M372 251h98M392 219l20-39h35l23 39"/>
+      <circle cx="383" cy="312" r="18"/><circle cx="459" cy="312" r="18"/>
+      <path d="M519 171h49v56h-49M543 171v-35M528 136h30"/>
+      <path d="M303 92h94v108h-94Z" fill="#fff" opacity=".56"/><path d="M326 122h48M326 148h48M326 174h29"/>
+      <circle cx="350" cy="67" r="30" fill="#E62973" opacity=".35"/>
+      <path d="M337 67h27M350 53v28" stroke="#E62973" stroke-width="9"/>
+      <path d="M302 208q33 24 62 0M350 200v32" stroke="#E62973"/>
+    
+  </g>
+</svg>

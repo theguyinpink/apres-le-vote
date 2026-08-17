@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">La République démocratique du XXIe siècle</title>
+  <desc id="desc">Illustration éditoriale du chapitre La République démocratique du XXIe siècle</desc>
+  <rect width="160" height="160" fill="#f9dbea"/>
+  <g fill="none" stroke="#37101f" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M28 125h104M35 125V73h90v52M35 73l45-28 45 28M53 112V84M80 112V84M107 112V84M106 73V45"/><path d="M107 46V32l19 7-19 7Z" fill="#e62973" stroke="none"/>
+  </g>
+</svg>

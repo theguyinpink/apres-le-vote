@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Défendre le droit international</title>
+  <desc id="desc">Illustration éditoriale du chapitre Défendre le droit international</desc>
+  <rect width="160" height="160" fill="#d8eadc"/>
+  <g fill="none" stroke="#0e2b1a" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="77" cy="80" r="46"/><path d="M31 80h92M77 34q-18 18-18 46t18 46M77 34q18 18 18 46t-18 46M44 52q33 17 66 0M44 108q33-17 66 0"/><path d="M120 42v28M121 43l17 7-17 7Z" fill="#2b7a4b" stroke="none"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Élever le niveau d’instruction</title>
+  <desc id="desc">Livre ouvert et flèche ascendante</desc>
+  <rect width="160" height="160" fill="#F5D7DF"/>
+  <g fill="none" stroke="#32101B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M26 67q28-10 54 8 26-18 54-8v54q-28-9-54 8-26-17-54-8Z"/>
+    <path d="M80 75v54M38 81q16-3 30 5M38 94q16-3 30 5M92 86q14-8 30-5M92 99q14-8 30-5"/>
+    <path d="M80 58V31m-10 10 10-10 10 10"/>
+  </g>
+  <path d="m76 37 4-6 4 6v22h-8Z" fill="#D51A4B"/>
+</svg>

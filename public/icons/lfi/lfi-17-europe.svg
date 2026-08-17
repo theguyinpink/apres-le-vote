@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Europe</title>
+  <desc id="desc">Territoires européens reliés dans un cercle commun</desc>
+  <rect width="160" height="160" fill="#F5D7DF"/>
+  <g fill="none" stroke="#32101B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m62 47 11-5 8 8 12-1 8 9-6 9 9 10-6 8 4 12-13 4-7 14-10-8-12 2-5-12-10-7 7-10-4-13 10-6Z"/>
+    <circle cx="80" cy="27" r="3"/><circle cx="107" cy="34" r="3"/><circle cx="126" cy="53" r="3"/><circle cx="133" cy="80" r="3"/><circle cx="126" cy="107" r="3"/><circle cx="107" cy="126" r="3"/><circle cx="80" cy="133" r="3"/><circle cx="53" cy="126" r="3"/><circle cx="34" cy="107" r="3"/><circle cx="27" cy="80" r="3"/><circle cx="34" cy="53" r="3"/><circle cx="53" cy="34" r="3"/>
+  </g>
+  <circle cx="80" cy="27" r="3" fill="#D51A4B"/>
+</svg>

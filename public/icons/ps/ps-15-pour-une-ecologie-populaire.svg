@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Pour une écologie populaire</title>
+  <desc id="desc">Illustration éditoriale du chapitre Pour une écologie populaire</desc>
+  <rect width="160" height="160" fill="#f9dbea"/>
+  <g fill="none" stroke="#37101f" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="28" y="37" width="104" height="91" rx="4"/><path d="M28 62h104M50 29v16M110 29v16M44 80h16M72 80h16M100 80h16M44 99h16M72 99h16"/><path d="M80 122q12-30 40-35-1 29-27 35-8 2-13 0Zm3-2q14-14 32-26" stroke="#e62973" stroke-width="2.8"/>
+  </g>
+</svg>

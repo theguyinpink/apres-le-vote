@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Travailler tous, moins et mieux</title>
+  <desc id="desc">Trois personnes autour d’une table et une horloge allégée</desc>
+  <rect width="160" height="160" fill="#F5D7DF"/>
+  <g fill="none" stroke="#32101B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="46" cy="68" r="8"/><circle cx="80" cy="59" r="8"/><circle cx="114" cy="68" r="8"/>
+    <path d="M32 95q14-18 28 0M66 88q14-18 28 0M100 95q14-18 28 0M26 101h108M39 101v25M121 101v25"/>
+    <circle cx="118" cy="42" r="18"/><path d="M118 32v11l7 5"/>
+  </g>
+  <path d="M118 24a18 18 0 0 1 18 18h-18Z" fill="#D51A4B" opacity=".32"/>
+</svg>

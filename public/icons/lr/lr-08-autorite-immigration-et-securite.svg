@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Autorité, immigration et sécurité</title>
+  <desc id="desc">Illustration éditoriale du chapitre Autorité, immigration et sécurité</desc>
+  <rect width="160" height="160" fill="#d7e4f3"/>
+  <g fill="none" stroke="#0d2642" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 25q21 15 45 17v34q0 31-45 51-45-20-45-51V42q24-2 45-17Z"/><path d="m56 78 15 15 34-38"/><path d="M80 25q21 15 45 17v14H80Z" fill="#175ca8" stroke="none" opacity=".75"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Abolir le patriarcat</title>
+  <desc id="desc">Illustration éditoriale du chapitre Abolir le patriarcat</desc>
+  <rect width="160" height="160" fill="#f9dbea"/>
+  <g fill="none" stroke="#37101f" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="80" cy="64" r="34"/><path d="M80 98v34M64 115h32M63 59h34M63 70h34"/><path d="m105 36 10-10M107 26h8v8" stroke="#e62973" stroke-width="3"/>
+  </g>
+</svg>

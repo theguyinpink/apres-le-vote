@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Culture, information et libertés numériques</title>
+  <desc id="desc">Illustration éditoriale du chapitre Culture, information et libertés numériques</desc>
+  <rect width="160" height="160" fill="#d8eadc"/>
+  <g fill="none" stroke="#0e2b1a" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M26 49q22-10 44 0v29q-4 25-22 32-18-7-22-32Zm10 17q6-5 11 0m8 0q6-5 11 0M37 88q11 9 22 0"/><path d="M91 38v58q0 8-8 8t-8-7 8-7q5 0 8 2M91 49l29-7v45q0 8-8 8t-8-7 8-7q5 0 8 2"/><path d="M91 38v11l29-7v11Z" fill="#2b7a4b" stroke="none"/>
+  </g>
+</svg>

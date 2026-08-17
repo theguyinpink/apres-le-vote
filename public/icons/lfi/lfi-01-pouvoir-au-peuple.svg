@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Le pouvoir au peuple</title>
+  <desc id="desc">Maison civique surmontée d’un drapeau rouge</desc>
+  <rect width="160" height="160" fill="#F5D7DF"/>
+  <g fill="none" stroke="#32101B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M31 124h98M37 124V73h86v51M37 73l43-27 43 27M55 113V83M80 113V83M105 113V83"/>
+    <path d="M105 73V46"/>
+  </g>
+  <path d="M106 47V33l18 7-18 7Z" fill="#D51A4B"/>
+</svg>

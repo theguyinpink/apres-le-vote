@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Nouvelles frontières de l’humanité</title>
+  <desc id="desc">Fusée explorant une planète aux confins de l’espace</desc>
+  <rect width="160" height="160" fill="#F5D7DF"/>
+  <g fill="none" stroke="#32101B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="105" cy="59" r="27"/><ellipse cx="105" cy="59" rx="43" ry="12" transform="rotate(-18 105 59)"/>
+    <path d="M48 113q-2-31 21-47 9 21-5 42l-16 5Z"/>
+    <circle cx="61" cy="81" r="5"/><path d="m49 105-12 4 8-14M62 108l3 12 9-15M48 113l-3 14 10-16"/>
+    <path d="M26 45h1M40 33h1M128 113h1M111 127h1"/>
+  </g>
+  <path d="M45 127q1-9 3-14l7-2q-3 10-10 16Z" fill="#D51A4B"/>
+</svg>

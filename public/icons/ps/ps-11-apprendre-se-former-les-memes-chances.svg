@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Apprendre, se former, les mêmes chances</title>
+  <desc id="desc">Illustration éditoriale du chapitre Apprendre, se former, les mêmes chances</desc>
+  <rect width="160" height="160" fill="#f9dbea"/>
+  <g fill="none" stroke="#37101f" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 63q29-10 56 8 27-18 56-8v60q-29-10-56 8-27-18-56-8ZM80 71v60M37 80q16-3 30 5M37 94q16-3 30 5M93 85q14-8 30-5M93 99q14-8 30-5"/><path d="M80 54V28m-10 10 10-10 10 10" stroke="#e62973" stroke-width="3"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Bien vieillir</title>
+  <desc id="desc">Illustration éditoriale du chapitre Bien vieillir</desc>
+  <rect width="160" height="160" fill="#f9dbea"/>
+  <g fill="none" stroke="#37101f" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="66" cy="56" r="18"/><path d="M40 121q3-44 27-44 23 0 26 44M58 54h3M72 54h3M60 65q7 5 14 0M87 85q18 8 20 36M107 74v47M99 121h17"/><path d="M107 74q10 0 10 10" stroke="#e62973" stroke-width="3"/>
+  </g>
+</svg>

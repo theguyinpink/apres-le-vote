@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Davantage d’alternatives à la voiture thermique</title>
+  <desc id="desc">Tramway, vélo et véhicule électrique reliés entre ville et territoire rural</desc>
+  <rect width="640" height="400" fill="#D8EADC"/>
+  <g fill="none" stroke="#0E2B1A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    
+      <path d="M24 330h592M41 330l82-62 78 62M448 330l79-70 72 70"/>
+      <rect x="49" y="116" width="222" height="153" rx="20" fill="#fff" opacity=".35"/><path d="M77 153h166M77 153v63M160 116v153M243 153v63M69 225h182M92 269v22M228 269v22"/>
+      <circle cx="101" cy="283" r="20"/><circle cx="219" cy="283" r="20"/>
+      <circle cx="339" cy="266" r="36"/><circle cx="423" cy="266" r="36"/><path d="M339 266h43l-27-47h42l26 47M382 266l-7-81M365 185h25"/>
+      <path d="M475 241h112l-20-58h-66l-26 58ZM491 241v37M567 241v37M507 207h57"/>
+      <circle cx="504" cy="282" r="18"/><circle cx="562" cy="282" r="18"/>
+      <path d="M591 163h28v47h-28M604 163v-29M595 134h18"/>
+      <path d="M49 116h222v27H49Z" fill="#2B7A4B" stroke="none" opacity=".58"/>
+      <path d="M378 201q15 13 30 0" stroke="#2B7A4B" stroke-width="9"/>
+    
+  </g>
+</svg>

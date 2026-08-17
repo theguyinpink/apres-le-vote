@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Protéger les vivants</title>
+  <desc id="desc">Illustration éditoriale du chapitre Protéger les vivants</desc>
+  <rect width="160" height="160" fill="#d8eadc"/>
+  <g fill="none" stroke="#0e2b1a" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 127V67M80 91q-25 0-36-30 29-2 36 30Zm0-9q24 0 36-28-26-2-36 28ZM25 127h110"/><circle cx="37" cy="41" r="10" fill="#2b7a4b" stroke="none"/>
+  </g>
+</svg>

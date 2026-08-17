@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Compétitivité et pouvoir d’achat</title>
+  <desc id="desc">Illustration éditoriale du chapitre Compétitivité et pouvoir d’achat</desc>
+  <rect width="160" height="160" fill="#d7e4f3"/>
+  <g fill="none" stroke="#0d2642" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="27" y="52" width="106" height="72" rx="4"/><path d="M56 52V38h48v14M27 76h106M67 76v14h26V76M44 106h32"/><circle cx="111" cy="105" r="11" fill="#175ca8" stroke="none"/>
+  </g>
+</svg>

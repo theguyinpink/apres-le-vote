@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Des bas revenus relevés</title>
+  <desc id="desc">Une salariée, une fiche de paie et une progression des bas salaires</desc>
+  <rect width="640" height="400" fill="#F5D7DF"/>
+  <g fill="none" stroke="#32101B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    
+      <circle cx="102" cy="146" r="34"/><path d="M47 322q7-119 55-119t55 119M68 318v-55h68v55"/>
+      <rect x="202" y="69" width="218" height="256" rx="10" fill="#fff" opacity=".48"/>
+      <path d="M235 113h151M235 145h97M235 278h151M235 300h112"/>
+      <circle cx="305" cy="211" r="45"/><path d="M329 191q-9-12-25-12-29 0-34 34t34 34q16 0 25-12M259 204h61M257 220h60"/>
+      <path d="M445 319h139M467 319v-53h31v53M519 319v-96h31v96M571 319V158"/>
+      <path d="m549 181 22-23 23 23M571 158V78" stroke="#D31D50" stroke-width="10"/>
+      <circle cx="102" cy="146" r="10" fill="#D31D50" stroke="none"/>
+    
+  </g>
+</svg>

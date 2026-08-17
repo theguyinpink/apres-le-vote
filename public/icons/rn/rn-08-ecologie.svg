@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Écologie</title>
+  <desc id="desc">Illustration éditoriale du chapitre Écologie</desc>
+  <rect width="160" height="160" fill="#d9deea"/>
+  <g fill="none" stroke="#08152e" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="80" cy="79" r="14"/><path d="M80 25v32M80 101v32M26 79h32M102 79h32M42 41l23 23M95 94l23 23M118 41 95 64M65 94l-23 23"/><path d="M80 60q12 0 18 10L80 79Zm18 10q6 11 0 20L80 79Zm0 20q-6 11-18 11V79Z" fill="#172e62" stroke="none" opacity=".75"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Un monde de coopération</title>
+  <desc id="desc">Illustration éditoriale du chapitre Un monde de coopération</desc>
+  <rect width="160" height="160" fill="#f9dbea"/>
+  <g fill="none" stroke="#37101f" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="80" cy="68" r="40"/><path d="M40 68h80M80 28q-16 16-16 40t16 40M80 28q16 16 16 40t-16 40"/><path d="M27 118l21-18 18 5 12 11q4 4 0 8t-8 0l-10-9M133 118l-21-18-18 5-12 11"/><path d="M78 117h15" stroke="#e62973" stroke-width="3"/>
+  </g>
+</svg>

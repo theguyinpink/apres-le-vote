@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Construire une souveraineté verte</title>
+  <desc id="desc">Illustration éditoriale du chapitre Construire une souveraineté verte</desc>
+  <rect width="160" height="160" fill="#e2ddf8"/>
+  <g fill="none" stroke="#1d1741" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="80" cy="78" r="12"/><path d="M80 25v32M34 78h34M92 78h34M48 46l23 23M89 87l23 23M112 46 89 69M71 87l-23 23"/><path d="M111 116q3-25 25-29-2 25-25 29Zm2-2 18-21" stroke="#5c43cf" stroke-width="2.8"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Humaniser par la culture et le sport</title>
+  <desc id="desc">Masque de théâtre, note de musique et ballon</desc>
+  <rect width="160" height="160" fill="#F5D7DF"/>
+  <g fill="none" stroke="#32101B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M25 50q23-10 46 0v30q-4 25-23 32-19-7-23-32Z"/>
+    <path d="M35 66q6-5 12 0M51 66q6-5 12 0M37 88q11 9 22 0"/>
+    <circle cx="111" cy="99" r="25"/><path d="m111 74 10 8-4 12h-12l-4-12ZM86 96l15-2M136 96l-19-2M95 118l10-14M127 118l-10-14M105 124h12"/>
+    <path d="M89 39v35q0 8-8 8t-8-7 8-7q5 0 8 2M89 47l20-5v28q0 8-8 8t-8-7 8-7q5 0 8 2"/>
+  </g>
+  <path d="M89 39v8l20-5v8Z" fill="#D51A4B"/>
+</svg>

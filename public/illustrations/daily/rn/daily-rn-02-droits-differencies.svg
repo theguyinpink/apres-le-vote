@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Des droits différenciés</title>
+  <desc id="desc">Un guichet social appliquant des critères supplémentaires à plusieurs dossiers</desc>
+  <rect width="640" height="400" fill="#D9DEEA"/>
+  <g fill="none" stroke="#08152E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    
+      <path d="M25 338h590M47 338V108h546v230M47 174h546"/>
+      <circle cx="320" cy="113" r="29"/><path d="M276 174q8-61 44-61t44 61"/>
+      <path d="M75 209h203v101H75ZM362 209h203v101H362"/>
+      <path d="M101 237h82M101 264h63M101 290h82M389 237h82M389 264h63M389 290h82"/>
+      <circle cx="232" cy="259" r="24"/><path d="m219 259 10 10 22-27" stroke="#172E62" stroke-width="9"/>
+      <circle cx="519" cy="259" r="24"/><path d="M507 247l24 24M531 247l-24 24" stroke="#172E62" stroke-width="9"/>
+      <path d="M320 174v164"/><path d="M290 69h60" stroke="#172E62" stroke-width="10"/>
+    
+  </g>
+</svg>

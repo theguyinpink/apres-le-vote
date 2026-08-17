@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Une nouvelle approche de la sécurité internationale</title>
+  <desc id="desc">Illustration éditoriale du chapitre Une nouvelle approche de la sécurité internationale</desc>
+  <rect width="160" height="160" fill="#f9dbea"/>
+  <g fill="none" stroke="#37101f" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="67" cy="76" r="42"/><path d="M25 76h84M67 34q-17 17-17 42t17 42M67 34q17 17 17 42-1 19-10 34"/><path d="M107 67q13 10 27 11v19q0 20-27 31-27-11-27-31V78q14-1 27-11Z"/><path d="m97 97 7 7 14-17" stroke="#e62973" stroke-width="3"/>
+  </g>
+</svg>

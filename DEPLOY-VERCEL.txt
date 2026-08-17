@@ -1,0 +1,14 @@
+APRÈS LE VOTE — DÉPLOIEMENT VERCEL
+
+IMPORTANT :
+1. Extraire ce ZIP dans un DOSSIER NEUF.
+2. Le dossier qui contient package.json doit être la racine du dépôt GitHub.
+3. Ne pas copier ces fichiers par-dessus l'ancien projet sans supprimer les anciens fichiers.
+4. Dans le dépôt final, il ne doit PAS exister de dossier db/, worker/, .wrangler/ ou .sites-runtime/.
+5. Rechercher "cloudflare:workers" sur GitHub : le résultat doit être 0.
+
+Vercel :
+- Framework preset : Next.js
+- Root Directory : .
+- Build command : npm run build
+- Output directory : laisser par défaut

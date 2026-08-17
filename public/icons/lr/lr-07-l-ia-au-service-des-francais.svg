@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">L’IA au service des Français</title>
+  <desc id="desc">Illustration éditoriale du chapitre L’IA au service des Français</desc>
+  <rect width="160" height="160" fill="#d7e4f3"/>
+  <g fill="none" stroke="#0d2642" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="43" y="43" width="74" height="74" rx="8"/><rect x="62" y="62" width="36" height="36" rx="4"/><path d="M58 27v16M80 27v16M102 27v16M58 117v16M80 117v16M102 117v16M27 58h16M27 80h16M27 102h16M117 58h16M117 80h16M117 102h16"/><path d="M70 88V72h9q8 0 8 8t-8 8h-9Zm20-16v16" stroke="#175ca8" stroke-width="3"/>
+  </g>
+</svg>

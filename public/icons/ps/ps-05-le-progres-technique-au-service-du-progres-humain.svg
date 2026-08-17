@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Le progrès technique au service du progrès humain</title>
+  <desc id="desc">Illustration éditoriale du chapitre Le progrès technique au service du progrès humain</desc>
+  <rect width="160" height="160" fill="#f9dbea"/>
+  <g fill="none" stroke="#37101f" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="25" y="35" width="110" height="72" rx="4"/><path d="M61 125h38M71 107v18M89 107v18M51 70l15-14M51 70l15 14M109 70 94 56M109 70 94 84M75 94l11-48"/><path d="M29 39h23v12H29Z" fill="#e62973" stroke="none"/>
+  </g>
+</svg>

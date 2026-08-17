@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Moins de bitume, plus d’ombre</title>
+  <desc id="desc">Une rue végétalisée, ombragée par de grands arbres autour d’une école</desc>
+  <rect width="640" height="400" fill="#D8EADC"/>
+  <g fill="none" stroke="#0E2B1A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    
+      <circle cx="533" cy="73" r="39" fill="#2B7A4B" opacity=".25"/>
+      <path d="M27 336h586M55 336V158h188v178M55 158l94-64 94 64M92 197h42v50H92Zm73 0h42v50h-42ZM112 336v-55h74v55"/>
+      <path d="M312 337V195M312 235q-69-8-92-75 72-14 92 75Zm0-12q67-7 91-70-70-15-91 70Z"/>
+      <path d="M495 337V177M495 221q-58-7-78-62 61-13 78 62Zm0-10q57-6 77-58-59-12-77 58Z"/>
+      <path d="M253 337h303M254 287h301M345 306h112"/>
+      <path d="M291 292q20-30 40 0M281 307h60M315 286v37"/>
+      <path d="M312 235q-69-8-92-75 72-14 92 75ZM312 223q67-7 91-70-70-15-91 70ZM495 221q-58-7-78-62 61-13 78 62ZM495 211q57-6 77-58-59-12-77 58Z" fill="#2B7A4B" opacity=".32" stroke="none"/>
+    
+  </g>
+</svg>

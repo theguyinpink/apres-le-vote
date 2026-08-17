@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Citoyens dans l’entreprise et dans la ville</title>
+  <desc id="desc">Une entreprise, une mairie et des citoyens reliés</desc>
+  <rect width="160" height="160" fill="#F5D7DF"/>
+  <g fill="none" stroke="#32101B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22 122h116M27 122V80l21 11V80l21 11v31M32 104h8M48 104h8M85 122V79h47v43M80 79l28-20 29 20M97 122V95h22v27"/>
+    <circle cx="59" cy="61" r="6"/><circle cx="80" cy="50" r="6"/><circle cx="101" cy="61" r="6"/>
+    <path d="M54 72q5-6 10 0M75 62q5-6 10 0M96 72q5-6 10 0"/>
+  </g>
+  <circle cx="80" cy="50" r="3" fill="#D51A4B"/>
+</svg>

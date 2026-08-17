@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Handicap : faire de l’inclusion un droit</title>
+  <desc id="desc">Illustration éditoriale du chapitre Handicap : faire de l’inclusion un droit</desc>
+  <rect width="160" height="160" fill="#f9dbea"/>
+  <g fill="none" stroke="#37101f" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="80" cy="80" r="51"/><circle cx="80" cy="47" r="8"/><path d="M80 60v27M60 70l20 8 21-8M80 87l-16 28M80 87l19 28"/><path d="M80 29v-8"/><circle cx="80" cy="21" r="4" fill="#e62973" stroke="none"/>
+  </g>
+</svg>

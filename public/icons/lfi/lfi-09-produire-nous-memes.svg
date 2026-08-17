@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Produire nous-mêmes pour répondre aux besoins</title>
+  <desc id="desc">Atelier local, engrenage et production utile</desc>
+  <rect width="160" height="160" fill="#F5D7DF"/>
+  <g fill="none" stroke="#32101B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M25 125V76l29 16V76l29 16V62h24v63M20 125h120M35 106h11M56 106h11M90 77h8"/>
+    <circle cx="111" cy="99" r="17"/><circle cx="111" cy="99" r="6"/>
+    <path d="M111 76v6M111 116v6M88 99h6M128 99h6M95 83l5 5M122 110l5 5M127 83l-5 5M100 110l-5 5"/>
+    <path d="M83 62h24V48H83Z"/>
+  </g>
+  <path d="M83 48h24v14H83Z" fill="#D51A4B" opacity=".3"/>
+</svg>

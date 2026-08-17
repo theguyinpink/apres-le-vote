@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Une présence et des sanctions accrues</title>
+  <desc id="desc">Présence policière, justice et exécution des sanctions dans une même chaîne institutionnelle</desc>
+  <rect width="640" height="400" fill="#D7E4F3"/>
+  <g fill="none" stroke="#0D2642" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    
+      <path d="M24 337h592M61 337V156h170v181M61 156l85-57 85 57M99 194v102M146 194v102M193 194v102"/>
+      <path d="M286 107q40 26 81 29v58q0 55-81 88-81-33-81-88v-58q41-3 81-29Z"/>
+      <path d="m249 188 29 29 55-70"/>
+      <path d="M417 337V151h147v186M443 176v126M490 176v126M537 176v126M417 309h147"/>
+      <path d="M382 85h121M397 85l40-34 41 34M438 85v44M393 129h90"/>
+      <path d="M205 136q41-3 81-29 40 26 81 29v24H205Z" fill="#175CA8" stroke="none" opacity=".55"/>
+      <path d="M417 151h147v24H417Z" fill="#175CA8" stroke="none" opacity=".45"/>
+    
+  </g>
+</svg>

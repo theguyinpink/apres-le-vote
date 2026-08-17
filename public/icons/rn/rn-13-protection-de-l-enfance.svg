@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Protection de l’enfance</title>
+  <desc id="desc">Illustration éditoriale du chapitre Protection de l’enfance</desc>
+  <rect width="160" height="160" fill="#d9deea"/>
+  <g fill="none" stroke="#08152e" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="53" cy="61" r="13"/><circle cx="100" cy="75" r="10"/><path d="M30 122q3-41 24-41 22 0 25 41M82 122q2-29 18-29t18 29M76 93l13 10M76 105l13 7"/><path d="m111 44 11-11 10 10-11 11Z" fill="#172e62" stroke="none"/><path d="m110 45-8 8"/>
+  </g>
+</svg>

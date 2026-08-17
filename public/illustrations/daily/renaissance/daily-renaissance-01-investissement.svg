@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Une politique favorable à l’investissement</title>
+  <desc id="desc">Création d’entreprise, industrie stratégique et investissement en progression</desc>
+  <rect width="640" height="400" fill="#E2DDF8"/>
+  <g fill="none" stroke="#1D1741" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    
+      <path d="M26 332h588M47 332V179l75 39v-39l75 39v-66l68 36v144M236 152V91h38v102M76 270h31M137 270h31M205 270h31"/>
+      <rect x="326" y="189" width="116" height="143" rx="8" fill="#fff" opacity=".44"/><path d="M351 224h66M351 254h66M351 284h45"/>
+      <circle cx="384" cy="153" r="37"/><path d="M404 140q-7-10-20-10-23 0-27 25t27 25q13 0 20-9M348 148h48M347 160h47"/>
+      <path d="M472 332h116M489 332v-54h27v54M532 332v-96h27v96M575 332V170"/>
+      <path d="m554 191 21-21 21 21M575 170V77" stroke="#5C43CF" stroke-width="10"/>
+      <path d="M47 179l75 39v-39l75 39v-66l68 36v24l-68-36v66l-75-39v39l-75-39Z" fill="#5C43CF" opacity=".24" stroke="none"/>
+    
+  </g>
+</svg>

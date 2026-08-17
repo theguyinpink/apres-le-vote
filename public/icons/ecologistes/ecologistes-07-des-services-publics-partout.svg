@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Des services publics partout</title>
+  <desc id="desc">Illustration éditoriale du chapitre Des services publics partout</desc>
+  <rect width="160" height="160" fill="#d8eadc"/>
+  <g fill="none" stroke="#0e2b1a" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M25 84 47 65l19 7 13 13q4 4 0 8t-8 0L60 83M135 84l-22-19-19 7-13 13M40 101l18 16q5 4 9-1M56 113l8 7q5 4 9-1M104 113l-8 7q-5 4-9-1L72 105"/><path d="M80 46c-10-12-25 3 0 20 25-17 10-32 0-20Z" fill="#2b7a4b" stroke="none"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Baisser la facture d’électricité</title>
+  <desc id="desc">Illustration éditoriale du chapitre Baisser la facture d’électricité</desc>
+  <rect width="160" height="160" fill="#d7e4f3"/>
+  <g fill="none" stroke="#0d2642" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 31h42v45H48ZM59 31V19M79 31V19M69 76v22M58 98h22"/><circle cx="103" cy="103" r="26"/><path d="M113 92q-4-5-10-5-12 0-12 16t12 16q6 0 10-5M86 99h22M86 107h21" stroke="#175ca8" stroke-width="2.8"/>
+  </g>
+</svg>

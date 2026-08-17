@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Une approche de santé globale</title>
+  <desc id="desc">Cœur, croix médicale et feuille réunis</desc>
+  <rect width="160" height="160" fill="#F5D7DF"/>
+  <g fill="none" stroke="#32101B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="80" cy="81" r="51"/><path d="M80 116C34 87 46 50 66 55q9 2 14 12 5-10 14-12c20-5 32 32-14 61Z"/>
+    <path d="M54 84h15l5-13 10 25 6-12h16"/>
+    <path d="M108 108q1-20 21-23-2 20-21 23Zm1-1 15-16"/>
+  </g>
+  <path d="M76 62h8v10h10v8H84v10h-8V80H66v-8h10Z" fill="#D51A4B" opacity=".9"/>
+</svg>

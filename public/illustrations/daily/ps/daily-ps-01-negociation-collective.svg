@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Plus de négociation collective</title>
+  <desc id="desc">Salariés et partenaires sociaux réunis autour d’un accord collectif</desc>
+  <rect width="640" height="400" fill="#F9DBEA"/>
+  <g fill="none" stroke="#37101F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    
+      <ellipse cx="320" cy="279" rx="238" ry="72" fill="#fff" opacity=".35"/>
+      <circle cx="128" cy="131" r="29"/><path d="M84 231q7-72 44-72t44 72"/>
+      <circle cx="512" cy="131" r="29"/><path d="M468 231q7-72 44-72t44 72"/>
+      <circle cx="230" cy="94" r="26"/><path d="M194 199q5-67 36-67t36 67"/>
+      <circle cx="410" cy="94" r="26"/><path d="M374 199q5-67 36-67t36 67"/>
+      <rect x="241" y="219" width="158" height="112" rx="8" fill="#fff" opacity=".6"/><path d="M270 250h101M270 274h75M270 299h89"/>
+      <path d="M265 203q27-33 55 0 28-33 55 0l-55 43Z"/>
+      <path d="M320 175c-16-19-41 5 0 32 41-27 16-51 0-32Z" fill="#E62973" stroke="none"/>
+    
+  </g>
+</svg>

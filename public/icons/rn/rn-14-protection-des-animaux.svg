@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Protection des animaux</title>
+  <desc id="desc">Illustration éditoriale du chapitre Protection des animaux</desc>
+  <rect width="160" height="160" fill="#d9deea"/>
+  <g fill="none" stroke="#08152e" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 75c-16-22-39-5-29 14 7 13 19 28 29 34 10-6 22-21 29-34 10-19-13-36-29-14Z"/><circle cx="48" cy="57" r="10"/><circle cx="70" cy="43" r="10"/><circle cx="92" cy="43" r="10"/><circle cx="114" cy="57" r="10"/><path d="M78 109q3 4 6 0" stroke="#172e62" stroke-width="3"/>
+  </g>
+</svg>

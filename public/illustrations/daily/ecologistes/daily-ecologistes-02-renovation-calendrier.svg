@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Le diagnostic devient un calendrier</title>
+  <desc id="desc">Un immeuble, un calendrier de travaux et des outils de rénovation énergétique</desc>
+  <rect width="640" height="400" fill="#D8EADC"/>
+  <g fill="none" stroke="#0E2B1A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    
+      <path d="M38 335h565M58 335V92h231v243M91 132h48v49H91Zm91 0h48v49h-48ZM91 218h48v49H91Zm91 0h48v49h-48ZM144 335v-42h59v42"/>
+      <rect x="340" y="67" width="223" height="183" rx="10" fill="#fff" opacity=".45"/><path d="M340 119h223M391 45v50M512 45v50M377 153h36M445 153h36M513 153h24M377 193h36M445 193h36"/>
+      <path d="M353 306h188M375 306l35-68M463 306l35-68M397 264h89"/>
+      <path d="m519 287 31-40 28 22-31 40Z"/><path d="M546 249l19-25"/>
+      <path d="M514 193h23M525 181v24" stroke="#2B7A4B" stroke-width="10"/>
+      <path d="M58 92h231v23H58Z" fill="#2B7A4B" stroke="none" opacity=".55"/>
+    
+  </g>
+</svg>

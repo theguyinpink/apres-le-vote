@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Un État plus numérique</title>
+  <desc id="desc">Une pièce d’identité numérique sur téléphone et un accompagnement au guichet</desc>
+  <rect width="640" height="400" fill="#E2DDF8"/>
+  <g fill="none" stroke="#1D1741" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    
+      <path d="M31 331h578M50 331V151h190v180M50 151l95-62 95 62M84 195v89M145 195v89M206 195v89"/>
+      <rect x="266" y="40" width="176" height="291" rx="24" fill="#fff" opacity=".4"/><path d="M328 66h52M331 302h46"/>
+      <rect x="292" y="106" width="124" height="142" rx="9"/><circle cx="332" cy="156" r="22"/><path d="M303 215q8-45 29-45t29 45M374 142h26M374 169h26M374 196h18"/>
+      <circle cx="506" cy="177" r="28"/><path d="M464 281q8-76 42-76t42 76M485 176h7M520 176h7M491 191q15 9 30 0"/>
+      <circle cx="584" cy="211" r="24"/><path d="M552 282q6-54 32-54t32 54M548 255l-27 27M523 257v25h25"/>
+      <path d="M445 235q35-24 68-7" stroke="#5C43CF" stroke-width="9"/>
+      <path d="M266 80h176v28H266Z" fill="#5C43CF" stroke="none" opacity=".55"/>
+    
+  </g>
+</svg>

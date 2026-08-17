@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Contrôle de l’immigration</title>
+  <desc id="desc">Illustration éditoriale du chapitre Contrôle de l’immigration</desc>
+  <rect width="160" height="160" fill="#d9deea"/>
+  <g fill="none" stroke="#08152e" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="29" y="32" width="76" height="94" rx="4"/><circle cx="67" cy="65" r="14"/><path d="M43 99q9-20 24-20t24 20M116 54h20m-9-9 9 9-9 9M116 91h20m-9-9 9 9-9 9"/><path d="M29 32h76v13H29Z" fill="#172e62" stroke="none"/>
+  </g>
+</svg>

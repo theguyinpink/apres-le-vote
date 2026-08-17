@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Agriculture durable, revenu digne</title>
+  <desc id="desc">Illustration éditoriale du chapitre Agriculture durable, revenu digne</desc>
+  <rect width="160" height="160" fill="#f9dbea"/>
+  <g fill="none" stroke="#37101f" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 125h112M35 125V74l45-31 45 31v51M53 125V88h54v37M80 43V26M80 26q-19 1-19 17 16 0 19-17Zm0 0q19 1 19 17-16 0-19-17Z"/><path d="M63 75h34" stroke="#e62973" stroke-width="3"/>
+  </g>
+</svg>

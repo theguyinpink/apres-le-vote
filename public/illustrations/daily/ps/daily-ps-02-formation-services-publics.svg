@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Une amélioration attendue, pas instantanée</title>
+  <desc id="desc">Formation progressive d’une enseignante, d’un soignant et d’un technicien</desc>
+  <rect width="640" height="400" fill="#F9DBEA"/>
+  <g fill="none" stroke="#37101F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    
+      <path d="M44 334h553M74 334v-73h132v73M206 334V196h132v138M338 334V120h132v214"/>
+      <circle cx="140" cy="212" r="25"/><path d="M105 261q7-41 35-41t35 41M121 271h38M140 271v41"/>
+      <circle cx="272" cy="147" r="25"/><path d="M237 196q7-41 35-41t35 41M256 208h32M272 193v48M248 217h48"/>
+      <circle cx="404" cy="71" r="25"/><path d="M369 120q7-41 35-41t35 41"/>
+      <circle cx="404" cy="169" r="31"/><circle cx="404" cy="169" r="10"/><path d="M404 130v12M404 196v12M365 169h12M431 169h12M376 141l9 9M423 188l9 9M432 141l-9 9M385 188l-9 9"/>
+      <path d="M490 334V70h83v264M490 115h83M511 48v43M552 48v43"/>
+      <path d="M73 261h133M206 196h132M338 120h132" stroke="#E62973" stroke-width="11"/>
+      <path d="M511 151h42M511 180h42M511 209h29" stroke="#E62973"/>
+    
+  </g>
+</svg>

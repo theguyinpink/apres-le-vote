@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Recréer du commun</title>
+  <desc id="desc">Illustration éditoriale du chapitre Recréer du commun</desc>
+  <rect width="160" height="160" fill="#f9dbea"/>
+  <g fill="none" stroke="#37101f" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="48" cy="65" r="10"/><circle cx="80" cy="55" r="10"/><circle cx="112" cy="65" r="10"/><path d="M27 122q2-36 21-36t21 36M59 122q2-45 21-45t21 45M91 122q2-36 21-36t21 36"/><path d="M80 39c-9-11-23 2 0 17 23-15 9-28 0-17Z" fill="#e62973" stroke="none"/>
+  </g>
+</svg>

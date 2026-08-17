@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Santé</title>
+  <desc id="desc">Illustration éditoriale du chapitre Santé</desc>
+  <rect width="160" height="160" fill="#d9deea"/>
+  <g fill="none" stroke="#08152e" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 34h80v94H40ZM66 58h28M80 44v28M55 96h14v32M91 96h14v32M24 128h112"/><path d="M107 36h11v23h-11Z" fill="#172e62" stroke="none"/>
+  </g>
+</svg>

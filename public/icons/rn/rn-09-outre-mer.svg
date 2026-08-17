@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Outre-mer</title>
+  <desc id="desc">Illustration éditoriale du chapitre Outre-mer</desc>
+  <rect width="160" height="160" fill="#d9deea"/>
+  <g fill="none" stroke="#08152e" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="75" cy="80" r="43"/><path d="M32 80h86M75 37q-17 17-17 43t17 43M75 37q17 17 17 43t-17 43"/><path d="M107 47q17-10 28 4-17 18-31 7M110 101q13-8 24 3-12 14-25 8"/><circle cx="128" cy="35" r="7" fill="#172e62" stroke="none"/>
+  </g>
+</svg>

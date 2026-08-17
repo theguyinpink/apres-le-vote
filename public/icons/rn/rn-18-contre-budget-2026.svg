@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Contre-budget 2026</title>
+  <desc id="desc">Illustration éditoriale du chapitre Contre-budget 2026</desc>
+  <rect width="160" height="160" fill="#d9deea"/>
+  <g fill="none" stroke="#08152e" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M42 27h65l15 15v91H42Z"/><path d="M107 27v17h15M58 61h48M58 75h48M58 108h18M57 95h27"/><circle cx="104" cy="104" r="21"/><path d="M114 94q-4-5-10-5-11 0-11 15t11 15q6 0 10-5M88 101h21M88 108h20" stroke="#172e62" stroke-width="2.6"/>
+  </g>
+</svg>

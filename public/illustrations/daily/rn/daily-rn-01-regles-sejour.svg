@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Des règles de séjour beaucoup plus strictes</title>
+  <desc id="desc">Une préfecture, une file d’attente et un contrôle administratif renforcé des titres de séjour</desc>
+  <rect width="640" height="400" fill="#D9DEEA"/>
+  <g fill="none" stroke="#08152E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    
+      <path d="M25 338h590M42 338V128h225v210M42 128l112-69 113 69M82 170v119M154 170v119M226 170v119M207 128V73"/>
+      <path d="M208 74V47l39 13-39 14Z" fill="#172E62" stroke="none"/>
+      <circle cx="309" cy="237" r="23"/><path d="M278 323q5-64 31-64t31 64"/>
+      <circle cx="376" cy="237" r="23"/><path d="M345 323q5-64 31-64t31 64"/>
+      <circle cx="443" cy="237" r="23"/><path d="M412 323q5-64 31-64t31 64"/>
+      <rect x="459" y="73" width="139" height="139" rx="9" fill="#fff" opacity=".46"/><circle cx="504" cy="127" r="21"/><path d="M477 181q6-42 27-42t27 42M546 112h31M546 137h31M546 162h22"/>
+      <path d="m546 186 13 13 27-35" stroke="#172E62" stroke-width="9"/>
+      <circle cx="563" cy="270" r="39"/><path d="M563 247v26l17 11M549 229h28"/>
+    
+  </g>
+</svg>

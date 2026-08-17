@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Un climat politique plus conflictuel</title>
+  <desc id="desc">Manifestations opposées, débats identitaires, médias et procédures judiciaires</desc>
+  <rect width="640" height="400" fill="#D9DEEA"/>
+  <g fill="none" stroke="#08152E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    
+      <path d="M25 342h590M237 342V221h166v121M237 221l83-52 83 52M272 249v61M320 249v61M368 249v61"/>
+      <circle cx="92" cy="222" r="25"/><path d="M56 330q6-80 36-80t36 80M89 197v-67M44 130h101v57H44Z"/>
+      <circle cx="174" cy="239" r="23"/><path d="M142 330q5-69 32-69t32 69M171 216v-87M135 129h90v53h-90Z"/>
+      <circle cx="548" cy="222" r="25"/><path d="M512 330q6-80 36-80t36 80M551 197v-67M495 130h101v57H495Z"/>
+      <circle cx="466" cy="239" r="23"/><path d="M434 330q5-69 32-69t32 69M469 216v-87M425 129h90v53h-90Z"/>
+      <path d="M267 102q53-46 106 0v39q-53 28-106 0Z" fill="#fff" opacity=".42"/>
+      <path d="m299 113 19 15 26-31"/>
+      <path d="m284 192 20 14-17 19 27 13M356 192l-20 14 17 19-27 13" stroke="#172E62" stroke-width="10"/>
+      <path d="M286 342v-35h68v35M320 307v-43M304 264h32"/>
+    
+  </g>
+</svg>

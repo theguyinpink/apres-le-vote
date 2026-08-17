@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Égalités et lutte contre les dominations</title>
+  <desc id="desc">Illustration éditoriale du chapitre Égalités et lutte contre les dominations</desc>
+  <rect width="160" height="160" fill="#d8eadc"/>
+  <g fill="none" stroke="#0e2b1a" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="55" cy="55" r="22"/><circle cx="105" cy="55" r="22"/><path d="M55 77v45M38 101h34M105 77v45M89 122h32M105 77l17-17M120 60v13M120 60h-13"/><path d="M75 48h10v14H75Z" fill="#2b7a4b" stroke="none"/>
+  </g>
+</svg>

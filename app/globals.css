@@ -1032,16 +1032,21 @@ a {
 }
 
 .program-card em {
+  align-self: flex-start;
   background: rgba(255, 255, 255, 0.45);
   border: 1px solid rgba(0, 0, 0, 0.22);
+  box-sizing: border-box;
   font-size: 9px;
   font-style: normal;
   font-weight: 750;
   letter-spacing: 0.04em;
+  line-height: 1.45;
   margin-top: 17px;
+  max-width: 100%;
+  overflow-wrap: anywhere;
   padding: 8px 9px;
   text-transform: uppercase;
-  width: max-content;
+  width: fit-content;
 }
 
 .program-card a {
@@ -1050,6 +1055,13 @@ a {
   margin-top: 32px;
   padding-bottom: 5px;
   width: max-content;
+}
+
+.program-card strong,
+.program-card small,
+.program-card a {
+  max-width: 100%;
+  overflow-wrap: anywhere;
 }
 
 .party-overview {
@@ -2400,7 +2412,8 @@ a {
     line-height: 0.9;
   }
   .party-title-block h2 { font-size: 14px; margin-top: 18px; }
-  .program-card { grid-column: 1 / -1; }
+  .program-card { grid-column: 1 / -1; min-width: 0; width: 100%; }
+  .program-card em { white-space: normal; }
   .program-card a { margin-top: 20px; }
   .party-overview { font-size: 20px; margin-top: 45px; }
   .reading-nav { display: flex; overflow-x: auto; position: static; }

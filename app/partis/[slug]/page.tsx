@@ -57,7 +57,7 @@ export default async function PartyPage({ params }: { params: Promise<{ slug: st
               width={512}
             />
           </div>
-          <div className="party-title-block">
+          <div className={`party-title-block ${party.slug === "rn" ? "party-title-block--rn" : ""}`}>
             <p>{party.family}</p>
             <h1>{party.name}</h1>
             <h2>{party.thesis}</h2>

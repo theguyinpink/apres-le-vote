@@ -975,6 +975,10 @@ a {
   width: 100%;
 }
 
+.party-title-block {
+  min-width: 0;
+}
+
 .party-title-block > p {
   font-size: 11px;
   font-weight: 800;
@@ -2390,6 +2394,11 @@ a {
   .party-hero-grid { align-items: start; gap: 28px 18px; grid-template-columns: 90px 1fr; margin-top: 48px; }
   .party-big-mark { font-size: 40px; }
   .party-title-block h1 { font-size: 51px; line-height: 0.86; }
+  .party-title-block--rn h1 {
+    font-size: clamp(34px, 9vw, 40px);
+    letter-spacing: -0.075em;
+    line-height: 0.9;
+  }
   .party-title-block h2 { font-size: 14px; margin-top: 18px; }
   .program-card { grid-column: 1 / -1; }
   .program-card a { margin-top: 20px; }

@@ -131,6 +131,19 @@ export default async function PartyPage({
     `Découvrez le projet de ${party.name} pour 2027 : mesures, calendrier 2027-2032, ` +
     `effets possibles, freins, votes parlementaires et sources.`;
 
+  const currentPartyIndex = publishedParties.findIndex(
+    (item) => item.slug === party.slug,
+  );
+
+  const previousParty =
+    publishedParties[
+      (currentPartyIndex - 1 + publishedParties.length) %
+        publishedParties.length
+    ];
+
+  const nextParty =
+    publishedParties[(currentPartyIndex + 1) % publishedParties.length];
+
   const structuredData = {
     "@context": "https://schema.org",
     "@graph": [
@@ -686,6 +699,78 @@ export default async function PartyPage({
             révisé lorsque le programme présidentiel 2027 définitif sera publié.
           </p>
         </div>
+      </section>
+
+      <section
+        className="section-shell"
+        aria-labelledby="continue-comparison-title"
+        style={{ paddingTop: "2rem", paddingBottom: "4rem" }}
+      >
+        <p className="section-index">09 — Continuer la comparaison</p>
+
+        <h2 id="continue-comparison-title" style={{ marginBottom: "1.5rem" }}>
+          Explorer d’autres projets politiques.
+        </h2>
+
+        <nav
+          aria-label="Navigation entre les projets politiques"
+          style={{
+            display: "flex",
+            flexWrap: "wrap",
+            gap: "1rem",
+          }}
+        >
+          <Link
+            href={`/partis/${previousParty.slug}`}
+            style={{
+              flex: "1 1 240px",
+              padding: "1.1rem 1.2rem",
+              border: "1px solid rgba(0, 0, 0, 0.16)",
+              borderRadius: "14px",
+              color: "inherit",
+              textDecoration: "none",
+            }}
+          >
+            <small style={{ display: "block", marginBottom: "0.35rem" }}>
+              ← Projet précédent
+            </small>
+            <strong>{previousParty.name}</strong>
+          </Link>
+
+          <Link
+            href="/#scenarios"
+            style={{
+              flex: "1 1 180px",
+              padding: "1.1rem 1.2rem",
+              border: "1px solid rgba(0, 0, 0, 0.16)",
+              borderRadius: "14px",
+              color: "inherit",
+              textDecoration: "none",
+            }}
+          >
+            <small style={{ display: "block", marginBottom: "0.35rem" }}>
+              Vue d’ensemble
+            </small>
+            <strong>Tous les projets</strong>
+          </Link>
+
+          <Link
+            href={`/partis/${nextParty.slug}`}
+            style={{
+              flex: "1 1 240px",
+              padding: "1.1rem 1.2rem",
+              border: "1px solid rgba(0, 0, 0, 0.16)",
+              borderRadius: "14px",
+              color: "inherit",
+              textDecoration: "none",
+            }}
+          >
+            <small style={{ display: "block", marginBottom: "0.35rem" }}>
+              Projet suivant →
+            </small>
+            <strong>{nextParty.name}</strong>
+          </Link>
+        </nav>
       </section>
 
       <SiteFooter />

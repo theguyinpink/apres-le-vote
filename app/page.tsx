@@ -8,35 +8,53 @@ import { parties } from "../lib/parties";
 
 const websiteSchema = {
   "@context": "https://schema.org",
+
   "@graph": [
     {
       "@type": "WebSite",
+
       "@id": "https://apreslevote.maisonclm.fr/#website",
+
       url: "https://apreslevote.maisonclm.fr/",
+
       name: "Après le vote",
+
       description:
-        "Comparez 26 projets politiques pour la présidentielle 2027 : mesures, calendrier 2027-2032, effets possibles, freins et sources.",
+        "Comparez les programmes et propositions de 26 projets politiques pour la présidentielle 2027 : mesures, calendrier 2027-2032, effets possibles, freins et sources.",
+
       inLanguage: "fr-FR",
     },
+
     {
       "@type": "WebPage",
+
       "@id": "https://apreslevote.maisonclm.fr/#webpage",
+
       url: "https://apreslevote.maisonclm.fr/",
+
       name: "Après le vote — Comprendre les projets politiques pour 2027",
+
       description:
         "Explorez les projets politiques pour 2027, leurs mesures, leurs effets possibles, leurs freins et leurs sources.",
+
       isPartOf: {
         "@id": "https://apreslevote.maisonclm.fr/#website",
       },
+
       about: {
         "@type": "Thing",
+
         name: "Élection présidentielle française de 2027",
       },
+
       creator: {
         "@type": "Organization",
+
         name: "Maison CLM",
+
         url: "https://maisonclm.fr/",
       },
+
       inLanguage: "fr-FR",
     },
   ],
@@ -57,143 +75,161 @@ export default function Home() {
 
   return (
     <main>
+           {" "}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify(websiteSchema).replace(/</g, "\\u003c"),
         }}
       />
-      <SiteHeader />
-
+            <SiteHeader />     {" "}
       <section className="hero" id="haut">
+               {" "}
         <div className="hero-kicker">
-          <span>Scénarios 2027—2032</span>
+          <span>Présidentielle 2027</span>
 
-          <span>Derniers programmes officiels disponibles</span>
+          <span>Programmes, propositions et scénarios 2027—2032</span>
         </div>
-
+               {" "}
         <div className="hero-grid">
+                   {" "}
           <div className="hero-copy">
-            <p className="eyebrow">Après le vote</p>
-
+                        <p className="eyebrow">Après le vote</p>           {" "}
             <h1>
-              Un programme n’est pas
-              <br />
-              <em>encore</em> un futur.
+                            Un programme n’est pas               <br />         
+                  <em>encore</em> un futur.            {" "}
             </h1>
-
+                       {" "}
             <p className="hero-lead">
-              On traduit les programmes en langage simple, puis on les compare
-              aux votes réels de leurs députés. Enfin, on regarde ce qu’une
-              majorité, le budget et le droit permettraient vraiment
-              d’appliquer.
+              Comparez les programmes et propositions politiques pour la
+              présidentielle 2027. Après le vote les traduit en langage simple,
+              les confronte aux votes réels des députés et analyse ce qu’une
+              majorité parlementaire, le budget, la Constitution et le droit
+              européen permettraient réellement d’appliquer entre 2027 et 2032.
             </p>
-
+                       {" "}
             <div className="hero-actions">
+                           {" "}
               <a className="button button-dark" href="#scenarios">
-                Explorer les scénarios <span aria-hidden="true">↘</span>
+                                Explorer les scénarios{" "}
+                <span aria-hidden="true">↘</span>             {" "}
               </a>
-
+                           {" "}
               <a className="text-link" href="#methode">
-                Lire notre méthode
+                                Lire notre méthode              {" "}
               </a>
+                         {" "}
             </div>
+                     {" "}
           </div>
-
+                   {" "}
           <div
             className="hero-visual"
             aria-label="Aperçu des forces qui façonnent un quinquennat"
           >
-            <div className="orbit orbit-one" />
-
-            <div className="orbit orbit-two" />
-
+                        <div className="orbit orbit-one" />
+                        <div className="orbit orbit-two" />           {" "}
             <div className="visual-center">
-              <span>Le programme</span>
-
-              <strong>×</strong>
-
-              <span>le réel</span>
+                            <span>Le programme</span>             {" "}
+              <strong>×</strong>              <span>le réel</span>         
+               {" "}
             </div>
-
-            <span className="satellite satellite-one">Assemblée</span>
-
-            <span className="satellite satellite-two">Budget</span>
-
-            <span className="satellite satellite-three">Constitution</span>
-
-            <span className="satellite satellite-four">Europe</span>
+                       {" "}
+            <span className="satellite satellite-one">Assemblée</span>         
+              <span className="satellite satellite-two">Budget</span>           {" "}
+            <span className="satellite satellite-three">Constitution</span>     
+                  <span className="satellite satellite-four">Europe</span>     
+               {" "}
           </div>
+                 {" "}
         </div>
-
+               {" "}
         <div className="baseline" aria-label="Point de départ de la simulation">
+                   {" "}
           <div className="baseline-title">
-            <span className="live-dot" />
-
-            <span>France, point de départ</span>
+                        <span className="live-dot" />           {" "}
+            <span>France, point de départ</span>         {" "}
           </div>
-
+                   {" "}
           {baseline.map((item) => (
             <div className="baseline-stat" key={item.label}>
-              <strong>{item.value}</strong>
-
-              <span>{item.label}</span>
-
-              <small>{item.source}</small>
+                            <strong>{item.value}</strong>             {" "}
+              <span>{item.label}</span>             {" "}
+              <small>{item.source}</small>           {" "}
             </div>
           ))}
+                 {" "}
         </div>
+             {" "}
       </section>
-
+           {" "}
       <section className="scenarios section-shell" id="scenarios">
+               {" "}
         <div className="section-heading">
+                   {" "}
           <div>
-            <p className="section-index">01 — Les scénarios</p>
-
-            <h2>{projectCount} projets. La même grille d’analyse.</h2>
+                        <p className="section-index">01 — Les scénarios</p>     
+                 {" "}
+            <h2>
+              {projectCount} projets politiques pour 2027. La même grille
+              d’analyse.
+            </h2>
+                     {" "}
           </div>
+                 {" "}
         </div>
-
+               {" "}
         <div className="project-legend" aria-label="Statut des dossiers">
+                   {" "}
           <p>
-            Tous les projets sont réunis dans la même liste. Le symbole à droite
-            indique simplement où en est le dossier.
+                        Tous les projets sont réunis dans la même liste. Le
+            symbole à droite             indique simplement où en est le
+            dossier.          {" "}
           </p>
-
+                   {" "}
           <div>
+                       {" "}
             <span>
+                           {" "}
               <i
                 className="candidate-icon candidate-icon-declared"
                 aria-hidden="true"
               >
-                ✓
+                                ✓              {" "}
               </i>
-              Dossier validé
+                            Dossier validé            {" "}
             </span>
-
+                       {" "}
             <span>
+                           {" "}
               <i
                 className="candidate-icon candidate-icon-watch"
                 aria-hidden="true"
               >
-                ◷
+                                ◷              {" "}
               </i>
-              En attente
+                            En attente            {" "}
             </span>
+                     {" "}
           </div>
+                 {" "}
         </div>
-
+               {" "}
         <div className="party-list">
+                   {" "}
           {parties.map((party, index) => {
             const isPublished = party.dossierStatus === "published";
 
             const content = (
               <>
+                               {" "}
                 <span className="party-number">
-                  {String(index + 1).padStart(2, "0")}
+                                    {String(index + 1).padStart(2, "0")}       
+                         {" "}
                 </span>
-
+                               {" "}
                 <span className="party-mark" aria-hidden="true">
+                                   {" "}
                   {party.logo ? (
                     <Image
                       alt=""
@@ -205,28 +241,30 @@ export default function Home() {
                   ) : (
                     party.short
                   )}
+                                 {" "}
                 </span>
-
+                               {" "}
                 <span className="party-identity">
-                  <strong>{party.name}</strong>
-
-                  <small>{party.family}</small>
-
+                                    <strong>{party.name}</strong>               
+                    <small>{party.family}</small>                 {" "}
                   <span className="party-candidate">
+                                       {" "}
                     <b>
+                                           {" "}
                       {isPublished
                         ? `Candidat${party.candidate.includes(" · ") ? "s" : ""}`
                         : "Candidat / situation"}
+                                         {" "}
                     </b>
-
-                    <span>{party.candidate}</span>
-
-                    <small>{party.candidateStatus}</small>
+                                        <span>{party.candidate}</span>         
+                              <small>{party.candidateStatus}</small>           
+                         {" "}
                   </span>
+                                 {" "}
                 </span>
-
-                <span className="party-summary">{party.thesis}</span>
-
+                               {" "}
+                <span className="party-summary">{party.thesis}</span>           
+                   {" "}
                 <span
                   className="candidate-marker"
                   aria-label={
@@ -234,14 +272,17 @@ export default function Home() {
                   }
                   title={isPublished ? "Dossier validé" : "Dossier en attente"}
                 >
+                                   {" "}
                   <i
                     className={`candidate-icon ${isPublished ? "candidate-icon-declared" : "candidate-icon-watch"}`}
                     aria-hidden="true"
                   >
-                    {isPublished ? "✓" : "◷"}
+                                        {isPublished ? "✓" : "◷"}               
+                     {" "}
                   </i>
+                                 {" "}
                 </span>
-
+                               {" "}
                 <span
                   className={
                     isPublished
@@ -250,8 +291,10 @@ export default function Home() {
                   }
                   aria-hidden="true"
                 >
-                  {isPublished ? "↗" : "—"}
+                                    {isPublished ? "↗" : "—"}             
+                   {" "}
                 </span>
+                             {" "}
               </>
             );
 
@@ -264,11 +307,12 @@ export default function Home() {
                   style={
                     {
                       "--party": party.color,
+
                       "--party-soft": party.soft,
                     } as React.CSSProperties
                   }
                 >
-                  {content}
+                                    {content}               {" "}
                 </Link>
               );
             }
@@ -280,131 +324,150 @@ export default function Home() {
                 style={
                   {
                     "--party": party.color,
+
                     "--party-soft": party.soft,
                   } as React.CSSProperties
                 }
               >
-                {content}
+                                {content}             {" "}
               </article>
             );
           })}
+                 {" "}
         </div>
-
+               {" "}
         <p className="validation-note validation-note-standalone">
-          <strong>« Validé »</strong> signifie que le dossier a été relu et
-          rendu consultable sur ce site. Cela ne signifie pas que la candidature
-          a déjà été validée par le Conseil constitutionnel ou qu’elle dispose
-          déjà des 500 présentations nécessaires.
+                    <strong>« Validé »</strong> signifie que le dossier a été
+          relu et           rendu consultable sur ce site. Cela ne signifie pas
+          que la candidature           a déjà été validée par le Conseil
+          constitutionnel ou qu’elle dispose           déjà des 500
+          présentations nécessaires.        {" "}
         </p>
+             {" "}
       </section>
-
+           {" "}
       <section className="reality-section" id="methode">
+               {" "}
         <div className="section-shell reality-grid">
+                   {" "}
           <div className="reality-intro">
+                       {" "}
             <p className="section-index section-index-light">
-              02 — Ce qui résiste
+                            02 — Ce qui résiste            {" "}
             </p>
-
-            <h2>Gagner l’Élysée ne donne pas tous les pouvoirs.</h2>
-
+                        <h2>Gagner l’Élysée ne donne pas tous les pouvoirs.</h2>
+                       {" "}
             <p>
-              Chaque scénario existe en trois versions. C’est souvent la
-              majorité parlementaire — davantage que le nom du président — qui
-              décide de la vitesse et de l’ampleur des changements intérieurs.
+                            Chaque scénario existe en trois versions. C’est
+              souvent la               majorité parlementaire — davantage que le
+              nom du président — qui               décide de la vitesse et de
+              l’ampleur des changements intérieurs.            {" "}
             </p>
+                     {" "}
           </div>
-
+                   {" "}
           <div className="majority-steps">
+                       {" "}
             <article>
-              <span>01</span>
-
+                            <span>01</span>             {" "}
               <div>
-                <h3>Majorité absolue</h3>
-
+                                <h3>Majorité absolue</h3>               {" "}
                 <p>
-                  Le programme devient une feuille de route, sous contrôle
-                  constitutionnel et européen.
+                                    Le programme devient une feuille de route,
+                  sous contrôle                   constitutionnel et européen.  
+                               {" "}
                 </p>
+                             {" "}
               </div>
+                         {" "}
             </article>
-
+                       {" "}
             <article>
-              <span>02</span>
-
+                            <span>02</span>             {" "}
               <div>
-                <h3>Majorité relative</h3>
-
+                                <h3>Majorité relative</h3>               {" "}
                 <p>
-                  Chaque texte se négocie. Les réformes sont retardées, amendées
-                  ou abandonnées.
+                                    Chaque texte se négocie. Les réformes sont
+                  retardées, amendées                   ou abandonnées.        
+                         {" "}
                 </p>
+                             {" "}
               </div>
+                         {" "}
             </article>
-
+                       {" "}
             <article>
-              <span>03</span>
-
+                            <span>03</span>             {" "}
               <div>
-                <h3>Cohabitation</h3>
-
+                                <h3>Cohabitation</h3>               {" "}
                 <p>
-                  Le gouvernement et sa majorité conduisent l’essentiel de la
-                  politique nationale.
+                                    Le gouvernement et sa majorité conduisent
+                  l’essentiel de la                   politique nationale.      
+                           {" "}
                 </p>
+                             {" "}
               </div>
+                         {" "}
             </article>
+                     {" "}
           </div>
+                 {" "}
         </div>
+             {" "}
       </section>
-
+           {" "}
       <section className="method-section section-shell">
+               {" "}
         <div className="method-quote">
-          <p>Ni oracle. Ni éditorial déguisé.</p>
-
-          <h2>Une projection sourcée, lisible et contredisable.</h2>
+                    <p>Ni oracle. Ni éditorial déguisé.</p>         {" "}
+          <h2>Une projection sourcée, lisible et contredisable.</h2>       {" "}
         </div>
-
+               {" "}
         <div className="method-columns">
+                   {" "}
           <article>
-            <span>Programmes + votes</span>
-
+                        <span>Programmes + votes</span>           {" "}
             <p>
-              Documents des partis et scrutins publics de l’Assemblée, tous
-              reliés à leur source.
+                            Documents des partis et scrutins publics de
+              l’Assemblée, tous               reliés à leur source.          
+               {" "}
             </p>
+                     {" "}
           </article>
-
+                   {" "}
           <article>
-            <span>Hypothèses visibles</span>
-
+                        <span>Hypothèses visibles</span>           {" "}
             <p>
-              Majorité, calendrier, financement et obstacles sont affichés avant
-              les conclusions.
+                            Majorité, calendrier, financement et obstacles sont
+              affichés avant               les conclusions.            {" "}
             </p>
+                     {" "}
           </article>
-
+                   {" "}
           <article>
-            <span>Incertitude assumée</span>
-
+                        <span>Incertitude assumée</span>           {" "}
             <p>
-              Une conséquence plausible n’est jamais présentée comme un résultat
-              garanti.
+                            Une conséquence plausible n’est jamais présentée
+              comme un résultat               garanti.            {" "}
             </p>
+                     {" "}
           </article>
+                 {" "}
         </div>
-
+               {" "}
         <div className="source-note">
-          <strong>Important</strong>
-
+                    <strong>Important</strong>         {" "}
           <p>
-            Les programmes présidentiels 2027 sont encore en construction. Cette
-            version utilise les textes nationaux les plus récents disponibles et
-            affiche leur date sur chaque fiche.
+                        Les programmes présidentiels 2027 sont encore en
+            construction. Cette             version utilise les textes nationaux
+            les plus récents disponibles et             affiche leur date sur
+            chaque fiche.          {" "}
           </p>
+                 {" "}
         </div>
+             {" "}
       </section>
-
-      <SiteFooter />
+            <SiteFooter />   {" "}
     </main>
   );
 }

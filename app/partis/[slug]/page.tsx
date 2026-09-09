@@ -9,18 +9,68 @@ import { getPublishedParty, publishedParties } from "../../../lib/parties";
 import { getPartyProgram } from "../../../lib/party-programs";
 import { getPartyProjection } from "../../../lib/projections";
 import { dominantChoice, landmarkVotes, partyVoteContexts } from "../../../lib/votes";
+import { parties } from "@/lib/parties";
 
 export function generateStaticParams() {
   return publishedParties.map((party) => ({ slug: party.slug }));
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
   const { slug } = await params;
-  const party = getPublishedParty(slug);
-  return party
-    ? { title: `${party.name} — Après le vote`, description: party.thesis }
-    : { title: "Scénario introuvable — Après le vote" };
+
+  const party = parties.find((item) => item.slug === slug);
+
+  if (!party) {
+    return {
+      title: "Parti introuvable | Après le vote",
+      description:
+        "Cette fiche politique n'est pas disponible sur Après le vote.",
+    };
+  }
+
+  const title = `${party.name} 2027 : programme, mesures et effets | Après le vote`;
+
+  const description =
+    `Découvrez le projet de ${party.name} pour 2027 : mesures, calendrier 2027-2032, ` +
+    `effets possibles, freins, votes parlementaires et sources.`;
+
+  return {
+    title,
+    description,
+
+    alternates: {
+      canonical: `/partis/${party.slug}`,
+    },
+
+    openGraph: {
+      title,
+      description,
+      url: `/partis/${party.slug}`,
+      siteName: "Après le vote",
+      type: "article",
+      images: party.logo
+        ? [
+            {
+              url: party.logo,
+              alt: `Logo ${party.name}`,
+            },
+          ]
+        : [],
+    },
+
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+    },
+  };
 }
+
+
 
 export default async function PartyPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
